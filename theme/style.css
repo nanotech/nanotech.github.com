@@ -1,0 +1,27 @@
+body {
+	font-size:2em;
+	font-family:Fontin, sans-serif;
+	margin:0;
+	padding:0;
+	background:#fff url(background-light.png) repeat-x fixed bottom;
+}
+h1 {
+	margin:0 0 1em;
+	padding:2em 1em 1em;
+	background:#228 url(background-dark.png) repeat-x center;
+	text-shadow:black 0 0 5px;
+	border-bottom:1px solid #333;
+	color:white;
+}
+h1 a { color:white; }
+h1 a:hover { color:white; }
+a {
+	text-decoration:none;
+	color:#219;
+}
+a:hover {
+	color:#072;
+}
+p { padding:0 2em; }
+img { border:0; }
+#github-ribbon img { position:absolute; top:0; right:0; }
